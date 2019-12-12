@@ -1,0 +1,18 @@
+#one{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+}
+#two{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+}
+#three{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    background-color: red;
+}

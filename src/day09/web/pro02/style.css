@@ -1,0 +1,17 @@
+/*类选择器*/
+.myStyle{
+    font-size: 20px;
+    color: yellow;
+}
+/*标签选择器*/
+/*p{
+    font-size: 30px;
+    color: yellow;
+}
+h1{
+    color: red;
+}*/
+div p{
+    font-size: 40px;
+    color: red;
+}
